@@ -31,7 +31,7 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 
 ### TCP Handshake
 - **Source IP:** 192.168.100.13
-- **Destination IP:** 192.168.100.1
+- **Destination IP:** 62.197.45.60
 - **TCP Flags:** SYN → SYN-ACK → ACK  
 ![TCP Handshake](tcp_handshake.png)
 
