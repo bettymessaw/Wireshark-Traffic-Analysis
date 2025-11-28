@@ -6,7 +6,7 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 ## Tools Used
 - Wireshark
 - Ethernet connection
-- Web browser (Chrome/Firefox)
+- Web browser (Chrome)
 
 ## Capture Process
 1. Open Wireshark and select the Ethernet interface.  
@@ -18,7 +18,7 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 | Filter | Purpose |
 |--------|---------|
 | dns | Show domain lookups (google.com → IP) |
-| tcp.port | Show HTTPS TCP packets (encrypted traffic) |
+| tcp | Show HTTPS TCP packets (encrypted traffic) |
 
 ## Packet Analysis
 
