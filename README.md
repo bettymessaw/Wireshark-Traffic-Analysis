@@ -26,7 +26,7 @@ This project demonstrates capturing and analyzing network traffic using Wireshar
 - **Source IP:**  192.168.100.13
 - **Destination IP:** 192.168.100.1
 - **Query:** google.com  
-- **Answer:** 142.150.190.78
+- **Answer:** 142.150.202.164
 ![DNS Packet](dns_packet.png)
 
 ### TCP Handshake
